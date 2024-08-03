@@ -1,7 +1,7 @@
 
 Info 
- -- Cleaner je v  C++
- -- Leak je Od Nejmenovaneho Človeka
+| Cleaner je v  C++
+| Leak je Od Nejmenovaneho Človeka
 
  
  PRIVATE SERVICES 4E Cleaner                                                                                                                                                        
